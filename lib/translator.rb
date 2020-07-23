@@ -11,7 +11,7 @@ def load_library(file_path)
       final_hash[name][:english] = arrays[0]
       final_hash[name][:japanese] = arrays[1]
   end
-frank_emo
+final_hash
 end
 
 def get_japanese_emoticon(file_path, eng_emo)
